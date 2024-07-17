@@ -8,6 +8,6 @@ export const s = StyleSheet.create({
         justifyContent: 'center',
     },
     txt: {
-        fontSize: 28,
+        fontSize: 18,
     }
 });
